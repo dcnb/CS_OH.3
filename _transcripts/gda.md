@@ -1,9 +1,9 @@
 ---
-object-id: gda
+objectid: gda
 title: Gus Demus Interview  
 date-interviewed: 1975-10-24
 location: Ephrata, Washington
-av_source:  youtube
+av_source: youtube
 audiovideo-id: rjwHlnE4_9g
 ---
 

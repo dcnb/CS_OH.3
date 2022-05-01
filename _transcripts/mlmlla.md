@@ -1,9 +1,9 @@
 ---
-object-id: mlmlla
+objectid: mlmlla
 title: Mi Lew and Marie Lee Lew Interview 
 date-interviewed: 1975-11-20
 location: Walla Walla, Washington
-av_source:  youtube
+av_source: youtube
 audiovideo-id: dWmlL9WSZ3o
 ---
 

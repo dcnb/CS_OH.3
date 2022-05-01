@@ -1,9 +1,9 @@
 ---
-object-id: ihga
+objectid: ihga
 title: Mrs. Irene Grayson Interview 
 date-interviewed: 1975-04-17
 location: Roslyn, Washington
-av_source:  youtube
+av_source: youtube
 audiovideo-id: VKZi-JjxWn4
 ---
 

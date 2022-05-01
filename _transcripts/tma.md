@@ -1,9 +1,9 @@
 ---
-object-id: tma
+objectid: tma
 title: Toribio Madayag Interview 
 date-interviewed: 1975-07-02
 location: Grays Harbor, Washington
-av_source:  youtube
+av_source: youtube
 audiovideo-id: LsnTfBCMQec
 ---
 
