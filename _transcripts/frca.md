@@ -1,9 +1,9 @@
 ---
-object-id: frca
+objectid: frca
 title: Father Ricard Cebula Interview 
 date-interviewed: 1975-12-19
 location: Tacoma, WA
-av_source:  youtube
+av_source: youtube
 audiovideo-id: EswdkhTMhOA
 ---
 

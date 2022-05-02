@@ -1,9 +1,9 @@
 ---
-object-id: msca
+objectid: msca
 title: Mary Stella Calabrese Interview 
 date-interviewed: 1975-11-13
 location: Tacoma, WA
-av_source:  youtube
+av_source: youtube
 audiovideo-id: rwbSg_oppWk
 ---
 
