@@ -1,5 +1,5 @@
 ---
-objectid: msa
+object-id: msa
 title: Martin Sampson Interview  
 date-interviewed: 1975-11-06
 location: Skagit City, WA
