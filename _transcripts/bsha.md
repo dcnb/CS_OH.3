@@ -1,5 +1,5 @@
 ---
-objectid: bsha
+object-id: bsha
 title: Bernadette Suda Horiuchi Interview Audio
 date-interviewed: 2009-05-19
 location: Bellevue, WA

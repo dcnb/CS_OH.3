@@ -1,5 +1,5 @@
 ---
-objectid: emn2a
+object-id: emn2a
 title: Elva Moore Nicholas Interview   
 date-interviewed: 1976-03-22
 location: Franklin County, Washington
