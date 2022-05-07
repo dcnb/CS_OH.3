@@ -40,10 +40,10 @@ metadata: metadata-template
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-organization-name: "Andrew Weymouth"
-organization-link: http://a-rains.squarespace.com
-organization-logo-banner: 
-organization-logo-nav: 
+organization-name: "Mapping Language"
+organization-link: https://aweymo.github.io/cs_land/
+organization-logo-banner: https://user-images.githubusercontent.com/85772373/167272673-12a576d5-2675-42e0-822f-5489735fb11f.png
+organization-logo-nav: https://aweymo.github.io/cs_land/
 
 
 
