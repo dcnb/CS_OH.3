@@ -1,10 +1,10 @@
 display_name,stub,dropdown_parent
 Home,/
 Landing Page,https://aweymo.github.io/cs_land/
-Browse,https://aweymo.github.io/CS.2/browse.html
-Map,https://aweymo.github.io/CS.2/map.html
-Data,https://aweymo.github.io/CS.2/data.html
+Browse Repository,https://aweymo.github.io/CS.2/browse.html
+Repository Map,https://aweymo.github.io/CS.2/map.html
+Repository Data,https://aweymo.github.io/CS.2/data.html
 OH Transcripts,https://aweymo.github.io/CS_OH.3/transcripts.html
 OH Subjects,/subjects.html
-Findings,https://aweymo.github.io/CS.2/findings.html
+Text Mining Visualizations,https://aweymo.github.io/CS.2/findings.html
 Network Visualization,https://aweymo.github.io/hnv_2/
